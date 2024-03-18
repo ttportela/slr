@@ -1,6 +1,6 @@
-# Sistematic Literature Review - Web App
+# Systematic Literature Review - Web App
 -------------------
-Free software for maitaining a sistematic literature review. Can be used in [slr.tarlis.com.br](https://slr.tarlis.com.br/)
+Free software for maitaining a systematic literature review projects. Can be used in [slr.tarlis.com.br](https://slr.tarlis.com.br/)
 
 DIRECTORY STRUCTURE
 -------------------
