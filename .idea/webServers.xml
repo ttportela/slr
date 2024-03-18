@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14f21812-a7e8-4ee2-a9e7-d615d938a483" name="HG - SRL" url="http://srl.tarlis.com.br">
+        <fileTransfer rootFolder="/tarlis.com.br/slr" host="ftp.tarlis.com.br" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
